@@ -1340,4 +1340,8 @@
         "name": "Grade Grey",
         "colors": ["#bdc3c7","#2c3e50"]
     }
+    {
+        "name": "Salman Bajwa",
+        "colors": ["#a5ddca", "#04261a"]
+    },
 ]
