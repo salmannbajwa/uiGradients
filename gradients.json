@@ -1344,4 +1344,8 @@
         "name": "Salman Bajwa",
         "colors": ["#a5ddca", "#04261a"]
     },
+    {
+        "name": "Darkness",
+        "colors": ["#2f2e2e", "#1e0e0e", "#010000"]
+    },
 ]
